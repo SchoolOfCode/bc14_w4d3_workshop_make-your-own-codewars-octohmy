@@ -4,7 +4,7 @@
 REMAINING CARD COUNTER ♥️♠️♦️♣️
 Instructions:
 - A deck of cards has 4 cards of each value (4 Aces, 4 Jacks... etc.)
-- When you input a string of letters and numbers of all the cards picked ("6,7,8,A")
+- You input a string of letters and numbers of all the cards picked ("6,7,8,A")
 
 - Write a program that returns the remaining cards, giving the face value and how many cards of that type remain
 
